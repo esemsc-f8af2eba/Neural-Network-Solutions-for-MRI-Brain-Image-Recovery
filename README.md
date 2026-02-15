@@ -154,3 +154,10 @@ Requirements satisfied:
 
 ---
 
+## 🔎 Reconstruction Results
+
+### Original Image
+![Original Image](/home/xh1224/LECTURES/Deep learning/DL_HW/dl-module-coursework-1-esemsc-f8af2eba/Truth_corrupted.png)
+
+### Predicted Image
+![Predicted Image](/home/xh1224/LECTURES/Deep learning/DL_HW/dl-module-coursework-1-esemsc-f8af2eba/U-NET_result_corrupted_test.png)
