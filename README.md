@@ -16,6 +16,15 @@ The challenge:
 
 ---
 
+## 🔎 Reconstruction Results
+
+### Original Image
+![Original Image](Truth_corrupted.png)
+
+### Predicted Image
+![Predicted Image](U-NET_result_corrupted_test.png)
+
+
 ## 🏗 Pipeline Overview
 
 The project follows a three-stage pipeline:
@@ -153,11 +162,3 @@ Requirements satisfied:
 - Explore hybrid diffusion-based reconstruction.
 
 ---
-
-## 🔎 Reconstruction Results
-
-### Original Image
-![Original Image](Truth_corrupted.png)
-
-### Predicted Image
-![Predicted Image](U-NET_result_corrupted_test.png)
